@@ -1,16 +1,12 @@
-# uplabs_2
+<b><h1 align="center">Flutter Information App About Countries</h1></b>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class="photo-container" align="center">
+  <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/1.png?raw=true" height="480",width="270">
+  &nbsp;
+  <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/2.png?raw=true" height="480",width="270">
+  &nbsp;
+  <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/3.png?raw=true" height="480",width="270">
+  &nbsp;
+  <img src="https://github.com/KLYCHUB/flutter_information_app_about_countries/blob/master/ss/4.png?raw=true" height="480",width="270">
+  &nbsp;
+</div>
